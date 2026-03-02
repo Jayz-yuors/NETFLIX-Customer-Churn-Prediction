@@ -1,0 +1,45 @@
+feature,importance
+monthly_watch_hours,0.102403305
+engagement_score,0.08325615
+monthly_sessions,0.079789
+active_days_in_month,0.06853397
+watch_vs_trend_ratio,0.04260275
+avg_watch_duration,0.039206434
+delta_watch_hours,0.019259889
+session_decay_ratio,0.017218206
+watch_volatility_3m,0.017199775
+watch_decay_ratio,0.016859844
+watch_momentum_ratio,0.016496746
+account_age_days,0.01649657
+rolling_3m_watch_avg,0.016465947
+subscription_tenure_days,0.016357189
+avg_progress_percentage,0.016227445
+inactivity_streak,0.016166251
+gender_Prefer not to say,0.016158206
+primary_device_Gaming Console,0.016134094
+completion_ratio,0.016123084
+previous_month_watch_hours,0.016108941
+monthly_spend,0.016095083
+previous_month_sessions,0.015707443
+primary_device_Smart TV,0.015580828
+days_since_last_watch,0.015511862
+avg_user_rating,0.015503216
+delta_sessions,0.015362669
+age,0.015331307
+primary_device_Mobile,0.015314505
+gender_Other,0.015268972
+session_volatility_3m,0.015239977
+primary_device_Laptop,0.015047669
+household_size,0.014928056
+gender_Unknown,0.0148862265
+sessions_vs_trend_ratio,0.0148192365
+primary_device_Tablet,0.014804713
+download_sessions,0.014662881
+country_USA,0.014647971
+gender_Male,0.014436317
+subscription_plan_Premium,0.0143929245
+subscription_plan_Premium+,0.0140570775
+subscription_plan_Standard,0.013615108
+rolling_3m_sessions_avg,0.012815321
+completed_sessions,0.012302319
+distinct_devices_used,0.010604458

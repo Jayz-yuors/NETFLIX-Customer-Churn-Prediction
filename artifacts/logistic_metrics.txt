@@ -1,0 +1,12 @@
+Best Threshold: 0.6500000000000001
+F1 Score: 0.3734800231615518
+ROC AUC: 0.7353484981020675
+
+              precision    recall  f1-score   support
+
+           0       0.91      0.87      0.89      9804
+           1       0.33      0.42      0.37      1528
+
+    accuracy                           0.81     11332
+   macro avg       0.62      0.65      0.63     11332
+weighted avg       0.83      0.81      0.82     11332
