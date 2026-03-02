@@ -64,4 +64,6 @@ git clone https://github.com/Jayz-yuors/NETFLIX-Customer-Churn-Prediction.git
 - All outputs are saved inside:
 - artifacts/
 
+# LinkedIn Profile : www.linkedin.com/in/jay-keluskar-b17601358
+- Kindly Visit my LinkedIn to know more about the Technicalities and Details related to the project.
 
