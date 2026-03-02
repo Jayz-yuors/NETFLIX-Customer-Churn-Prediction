@@ -54,7 +54,8 @@ git clone https://github.com/Jayz-yuors/NETFLIX-Customer-Churn-Prediction.git
 - pip install -r requirements.txt
 ### 4 Update Database
 - db_config_1.py
-- USE YOUR CREDENTIALS 
+- USE YOUR CREDENTIALS
+- POPULATE YOUR DATABASE [ refer sql folder for sql scripts and also .. final_ml_dataset.csv in artefacts folder [ as a reference for data INGESTION ] 
 ### 5 Run Model Training
 - python -m models.train_models
 
